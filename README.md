@@ -1,4 +1,4 @@
-# MiniVSFS Builder & Adder
+# mini-VSFS Builder & Adder
 
 This repository contains two C programs for creating and modifying a simple virtual file system image called **MiniVSFS**.
 
@@ -92,14 +92,6 @@ echo "Hello MiniFS!" > hello.txt
 | Data Bitmap | Tracks used/free data blocks | 2 |
 | Inode Table | Stores inodes | 3 |
 | Data Region | File & directory data | after inode table |
-
----
-
-## 🧑‍💻 Developers
-- **Author:** (Your Name)
-- **Language:** C17
-- **Version:** 1.0
-- **License:** MIT or your preferred license
 
 ---
 
