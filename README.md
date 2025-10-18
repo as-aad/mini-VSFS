@@ -2,8 +2,6 @@
 
 This repository contains two C programs for creating and modifying a simple virtual file system image called **MiniVSFS**.
 
----
-
 ## 📦 Overview
 
 ### 🧱 `mkfs_builder.c`
